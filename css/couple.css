@@ -165,6 +165,7 @@ photo1{
 .couple-block .name {
   text-align: center;
   padding-right: 140px;
+  height: 140px;
 }
 
 .couple-block.second-block .name {
